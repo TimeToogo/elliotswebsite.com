@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Test by TimeToogo</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="wrapper">
+    {% include analytics.html %}
+    <header>
+        <h1>{{ site.name }}</h1>
+
+        <p>{{ site.sub-header }}</p>
+
+
+        {% assign current_url = page.url|remove:'index.html' %}
+        {% for page in site.data.nav %}
+        <p class="view">
+            <a href="{{ site.url }}{{ page.url }}" class="{% if page.url == current_url %}active{% endif %} button">
+                {{ page.name }}
+            </a>
+        </p>
+        {% endfor %}
+
+        <h1>Posts</h1>
+        {% for post in site.posts %}
+        <p class="view">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </p>
+        {% endfor %}
+
+    </header>
+    <section>
+
+        <section id="main-content">
+            {{content}}
+        </section>
+
+    </section>
+    <footer>
+        <p>
+            <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+            </small>
+        </p>
+    </footer>
+</div>
+<script src="javascripts/scale.fix.js"></script>
+
+</body>
+</html>
