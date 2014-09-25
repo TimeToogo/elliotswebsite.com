@@ -1,1 +1,0 @@
-{"name":"Test","tagline":"Test","body":"Testing some PHP code:\r\n```php\r\nfunction func(ABC $foo) \r\n{\r\n    $var = [1, 4, 6];\r\n    $foo = func($var);\r\n}\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
