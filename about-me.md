@@ -30,4 +30,4 @@ Skills:
 
  - C# - My first programming language, no regrets, elegant and statically typed allowed me to build a great foundation on OOP.
  - PHP - Although it may not be as elegant, full-featured or nice to work with, it is everywhere, maintains a large open source community and remains the largest part in my current job.
- - Webstack - HTML, CSS, JS, MySql, stuff that is just a necessity for PHP web development.
+ - Webstack - HTML, CSS, JS, MySQL, stuff that is just a necessity for PHP web development.
