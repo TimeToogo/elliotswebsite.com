@@ -2,7 +2,7 @@ highlighter: pygments
 markdown: redcarpet
 name: Elliot Levin
 sub-header: I enjoy making things
-url: https://timetoogo.github.io
+url: https://elliotswebsite.com
 
 collections:
   stuff:
