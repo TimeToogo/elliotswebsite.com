@@ -2,7 +2,7 @@ highlighter: pygments
 markdown: redcarpet
 name: Elliot Levin
 sub-header: I enjoy making things
-url: https://elliotswebsite.com
+url: http://elliotswebsite.com
 
 collections:
   stuff:
