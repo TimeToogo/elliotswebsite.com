@@ -1,2 +1,11 @@
 - from: /cws/eec1.php
   to: http://caulfieldsouthweatherstation.com
+  
+- from: /cws/water.htm
+  to: http://caulfieldsouthweatherstation.com
+  
+- from: /cws/soilmoisturepot.htm
+  to: http://caulfieldsouthweatherstation.com
+
+- from: /cws/testeec3.php
+  to: http://caulfieldsouthweatherstation.com
