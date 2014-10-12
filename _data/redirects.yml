@@ -6,6 +6,9 @@
   
 - from: /cws/soilmoisturepot.htm
   to: http://caulfieldsouthweatherstation.com
+  
+- from: /cws/dewpoint.htm
+  to: http://caulfieldsouthweatherstation.com
 
 - from: /cws/testeec3.php
   to: http://caulfieldsouthweatherstation.com
