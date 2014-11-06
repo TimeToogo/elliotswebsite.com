@@ -42,6 +42,7 @@ h3, h4, h5, h6 {
 
 .subheader {
     font-size: 12px!important;
+    line-height: normal!important;
     margin-top: -28px; /* -(font-size * line-height + .header-separator{font-size}) */
     color: #888;
 }
@@ -69,7 +70,7 @@ a small {
 }
 
 .wrapper {
-    width: 860px;
+    width: 910px;
     margin: 0 auto;
 }
 
@@ -132,13 +133,13 @@ strong {
 section#main-content {
     padding-bottom: 50px;
     font-size: 16px;
-    width: 550px;
+    width: 600px;
     float: right;
 }
 
 section#main-content p {
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 24px;
 }
 
 small {
