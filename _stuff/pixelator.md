@@ -47,7 +47,7 @@ aiming to finally release this project rather than the *endless* pursuit of perf
 
 And that is how I built pixelator.io, perhaps it is not perfect, but it is live and it is usable.
 
-[Visit pixerlator.io](https://pixelator.io)
+[Visit pixelator.io](https://pixelator.io)
 
 [0]: http://en.wikipedia.org/wiki/Portable_Network_Graphics
 [1]: http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
