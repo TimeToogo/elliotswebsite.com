@@ -47,7 +47,17 @@ aiming to finally release this project rather than the *endless* pursuit of perf
 
 And that is how I built pixelator.io, perhaps it is not perfect, but it is live and it is usable.
 
+UPDATE: After first publishing this project I decided to [post it to reddit][2]. The post gained traction and
+after 900 upvotes, 16000 unique visitors and 70 comments in reply, the feedback was mixed. There seemed to be a 
+general misconception that this was an attempt at [steganography][3] (of which I had not heard of until that point)
+and general negativity about the encoded pictures being just noise. In response I set about introducing the
+capability of encoding data in actual pictures and four days later this functionality was released. In retrospect
+I am very glad to have been persuaded into building this feature and the resulting website now offering both 
+steganography (the art of hiding data) and cryptography (the art of securing data).
+
 [Visit pixelator.io](https://pixelator.io)
 
 [0]: http://en.wikipedia.org/wiki/Portable_Network_Graphics
 [1]: http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
+[2]: https://www.reddit.com/r/InternetIsBeautiful/comments/2q0mmo/pixelatorio_is_a_web_service_that_allows_you_to/
+[3]: http://en.wikipedia.org/wiki/Steganography
