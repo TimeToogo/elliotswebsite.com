@@ -52,8 +52,8 @@ after 900 upvotes, 16000 unique visitors and 70 comments in reply, the feedback 
 general misconception that this was an attempt at [steganography][3] (of which I had not heard of until that point)
 and general negativity about the encoded pictures being just noise. In response I set about introducing the
 capability of encoding data in actual pictures and four days later this functionality was released. In retrospect
-I am very glad to have been persuaded into building this feature and the resulting website now offering both 
-steganography (the art of hiding data) and cryptography (the art of securing data).
+I am very glad to have been persuaded into building this feature and the resulting service now offers both 
+steganography (the art of hiding data) and cryptography (the art of securing data) through encoding data in pictures.
 
 [Visit pixelator.io](https://pixelator.io)
 
