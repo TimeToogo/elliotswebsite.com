@@ -60,5 +60,7 @@ $youngPeopleDetails = $people
 
 [You can view the project site here](https://timetoogo.github.io/Pinq)
 
+[Here is a demo implementation of the query provider mapping to SQL](https://github.com/TimeToogo/Pinq.Demo.Sql)
+
 [0]: http://msdn.microsoft.com/en-us/library/bb397926.aspx
 [1]: http://docs.hhvm.com/manual/en/hack.lambda.php
