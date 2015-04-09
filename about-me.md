@@ -3,7 +3,7 @@ layout: default
 title:  About me
 ---
 
-I am a <span class='years-from' data-date='1997-04-05'></span> year old student living in Melbourne, Australia, 
+I am a <span class='years-from' data-date='1997-05-04'></span> year old student living in Melbourne, Australia, 
 currently attending Brighton Secondary College in year <span class='years-from' data-date='2003-01-01'></span>.
 
 Stuff I've made:
