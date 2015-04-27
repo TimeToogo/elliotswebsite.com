@@ -12,7 +12,7 @@ after school a few days of the week.
 
 This being not only my first experience in the industry but also my first job,
 was unlike anything which I could foresee. For myself there was a profound difference in working for
-non-personal projects where you I *told* my job and *required* to fulfil it. The pressure
+non-personal projects where I was *told* my task and *required* to fulfil it. The pressure
 was at first nerve racking but reduced over time after realising I had the skills necessary
 and was able to apply them in a commercial web development environment.
 I also enjoy the experience, working with like minded others and the additional feelings
