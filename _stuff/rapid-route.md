@@ -8,7 +8,7 @@ date: '2015-05-18 12:00:00'
 RapidRoute is another little side project of mine that was heavily
 inspired by [nikic's FastRoute][0] and the seemingly endless pursuit of ultra
 fast uri routing in PHP. The goal of the package not just to match pretty urls
-into useful data telling the application what to do but to it *fast, very fast*.
+into useful data telling the application what to do but to do it *fast, very fast*.
 
 The traditional method of routing, as used by FastRoute, is by compiling the route
 definitions to regular expressions which will be run against the url. RapidRoute
