@@ -55,9 +55,14 @@ capability of encoding data in actual pictures and four days later this function
 I am very glad to have been persuaded into building this feature and the resulting service now offers both 
 steganography (the art of hiding data) and cryptography (the art of securing data) through encoding data in pictures.
 
+ANOTHER UPDATE: I have open sourced this project. The API which powers pixelator can be found [here][4]
+and the source for the website itself can be found [here][5]
+
 [Visit pixelator.io](https://pixelator.io)
 
 [0]: http://en.wikipedia.org/wiki/Portable_Network_Graphics
 [1]: http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html
 [2]: https://www.reddit.com/r/InternetIsBeautiful/comments/2q0mmo/pixelatorio_is_a_web_service_that_allows_you_to/
 [3]: http://en.wikipedia.org/wiki/Steganography
+[4]: https://github.com/TimeToogo/Pixelator.Api
+[5]: https://github.com/TimeToogo/Pixelator.Web
