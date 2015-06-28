@@ -1,4 +1,8 @@
 $(document).ready(function () {
+    $('header a[href]').each(function () {
+        $(this).toggleClass('active', $(this).get(0).href === window.location.href);
+    });
+
     $('.years-from[data-date]').each(function () {
         var now = new Date();
 

@@ -1,0 +1,6 @@
+{
+  "name": "Elliot's Website",
+  "dependencies": {
+    "schmick": "latest"
+  }
+}
