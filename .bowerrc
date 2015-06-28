@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "postinstall": "cp bower_components/schmick/schmick.js assets/js/"
+    "postinstall": "cp bower_components/schmick/schmick.js assets/js/",
+    "postupdate": "cp bower_components/schmick/schmick.js assets/js/"
   }
 }
