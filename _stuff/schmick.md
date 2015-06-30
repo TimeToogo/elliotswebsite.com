@@ -22,4 +22,7 @@ site (notice the fading between pages) and seems to work pretty smoothly on
 modern browsers. I am not a frontend javascript man so I am sure there is 
 much I have missed. Next on the agenda: how the hell to test this?
 
+UPDATE: [Mocha](http://mochajs.org/) running in browser turned out to be
+a workable solution.
+
 [You can view the repository here](https://github.com/TimeToogo/Schmick).
