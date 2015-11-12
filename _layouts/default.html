@@ -25,6 +25,7 @@
         $(document).ready(function () {
             Schmick.load({
                 container: '#main-content',
+                linkSelector: 'a:not([href*="/assets/things/"])',
                 scriptsToReload: ['/assets/js/custom.js']
             });
         });
