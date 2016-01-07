@@ -4,7 +4,7 @@ title:  About me
 ---
 
 I am a <span class='years-from' data-date='1997-05-04'></span> year old student living in Melbourne, Australia, 
-currently working full time at [ID Digital](/work/iddigital.html)</span>.
+currently working full time at [ID Digital](/work/iddigital-full-time.html)</span>.
 
 Stuff I've made:
 {% capture list %}

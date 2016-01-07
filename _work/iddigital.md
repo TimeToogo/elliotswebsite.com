@@ -1,9 +1,9 @@
 ---
 layout: job
-title:  ID Digital Agency
+title:  ID Digital
 subtitle: Part time web development
 start-date: '2013-12-01 12:00:00'
-end-date: ''
+end-date: '2015-12-20 12:00:00'
 ---
 
 I first began working at [ID Digital Agency][0] for my year 10 work experience.
