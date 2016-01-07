@@ -4,7 +4,7 @@ title:  About me
 ---
 
 I am a <span class='years-from' data-date='1997-05-04'></span> year old student living in Melbourne, Australia, 
-currently attending Brighton Secondary College in year <span class='years-from' data-date='2003-01-01'></span>.
+currently working full time at [ID Digital](/work/iddigital.html)</span>.
 
 Stuff I've made:
 {% capture list %}
@@ -23,8 +23,6 @@ Places I've worked:
 {% endfor %}
 {% endcapture %}
 {{ list | markdownify }}
-
-Over the years I have taught my self various skills that have allowed me to realise my ideas.
 
 Skills:
 
