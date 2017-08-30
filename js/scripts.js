@@ -103,7 +103,7 @@
                 };
 
                 doc.addHTML(document.body, options, function () {
-                    doc.save('resume.pdf');
+                    doc.save('elliot-levin-resume.pdf');
                 });
             });
         });
