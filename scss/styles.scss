@@ -294,7 +294,7 @@ footer {
     &.header-social {
         position: absolute;
         top: 0;
-        right: 0;
+        right: 10px;
         z-index: 10;
 
         a {
@@ -303,7 +303,7 @@ footer {
 
 
         @media only screen and (max-width : 768px) {
-            left: 0;
+            left: 5px;
             right: auto;
         }
     }
