@@ -97,7 +97,7 @@
     $('.download-button').on('click', function () {
         $.when(
             $.getScript('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js'),
-            $.getScript('https://unpkg.com/jspdf@latest/dist/jspdf.min.js'),
+            $.getScript('https://unpkg.com/jspdf@1.4.1/dist/jspdf.min.js'),
             $.Deferred(function (deferred) {
                 $(deferred.resolve);
             })
@@ -108,9 +108,9 @@
                     var doc = new jsPDF('p', 'mm', 'a4');
                     var imgData = canvas.toDataURL('image/jpeg');
 
-                    var imgWidth = doc.internal.pageSize.width;
-                    var pageHeight = doc.internal.pageSize.height;
-
+                    var imgWidth = doc.internal.pageSize.getWidth();
+                    var pageHeight = doc.internal.pageSize.getHeight();
+                    
                     var imgHeight = canvas.height * imgWidth / canvas.width;
                     var heightLeft = imgHeight;
                     var position = 0;
